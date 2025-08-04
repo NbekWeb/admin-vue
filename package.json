@@ -78,7 +78,11 @@
     "eslint-plugin-vue": "^7.20.0"
   },
   "resolutions": {
-    "autoprefixer": "10.4.5"
+    "autoprefixer": "10.4.5",
+    "@nuxt/kit": "^4.0.2"
+  },
+  "overrides": {
+    "@nuxt/kit": "^4.0.2"
   },
   "eslintConfig": {
     "root": true,
