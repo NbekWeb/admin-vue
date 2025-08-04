@@ -2,7 +2,7 @@
 import moment from "moment";
 import Swal from "sweetalert2";
 import "@fullcalendar/core";
-import { SimpleBar } from "simplebar-vue3";
+import { SimpleBar } from "simplebar-vue";
 import { CalendarIcon } from "@zhuowenli/vue-feather-icons";
 import flatPickr from "vue-flatpickr-component";
 import "flatpickr/dist/flatpickr.css";

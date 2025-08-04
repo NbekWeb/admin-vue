@@ -551,10 +551,10 @@
 	//
 	// Style anchor elements.
 
-	$link-color:                              var(--#{$prefix}link-color);
+	$link-color:                              $primary;
 	$link-decoration:                         underline;
 	$link-shade-percentage:                   20%;
-	$link-hover-color:                        var(--#{$prefix}link-hover-color);
+	$link-hover-color:                        shift-color($primary, $link-shade-percentage);
 	$link-hover-decoration:                   null;
 
 	$stretched-link-pseudo-element:           after;

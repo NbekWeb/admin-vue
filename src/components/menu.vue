@@ -4,7 +4,7 @@ import {
 } from "@/state/helpers";
 import {
   SimpleBar
-} from "simplebar-vue3";
+} from "simplebar-vue";
 
 export default {
   components: {

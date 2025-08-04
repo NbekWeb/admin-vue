@@ -1,7 +1,7 @@
 <script>
 localStorage.setItem("rightbar_isopen", false);
 import { layoutMethods, layoutComputed } from "@/state/helpers";
-import { SimpleBar } from "simplebar-vue3";
+import { SimpleBar } from "simplebar-vue";
 /**
  * Right sidebar component
  */

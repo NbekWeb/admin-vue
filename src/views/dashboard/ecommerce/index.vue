@@ -32,7 +32,7 @@ SwiperCore.use([]);
 import flatPickr from "vue-flatpickr-component";
 import {
   SimpleBar
-} from "simplebar-vue3";
+} from "simplebar-vue";
 import "flatpickr/dist/flatpickr.css";
 import {
   CountTo

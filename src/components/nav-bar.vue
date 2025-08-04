@@ -1,7 +1,7 @@
 <script>
 import {
   SimpleBar
-} from "simplebar-vue3";
+} from "simplebar-vue";
 
 import i18n from "../i18n";
 

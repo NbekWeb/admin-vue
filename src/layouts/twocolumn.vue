@@ -2,7 +2,7 @@
 import router from "@/router";
 import {
   SimpleBar
-} from "simplebar-vue3";
+} from "simplebar-vue";
 import {
   layoutComputed
 } from "@/state/helpers";

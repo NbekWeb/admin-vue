@@ -1,6 +1,6 @@
 <script>
 import router from "@/router";
-import { SimpleBar } from "simplebar-vue3";
+import { SimpleBar } from "simplebar-vue";
 import { layoutComputed } from "@/state/helpers";
 
 import NavBar from "@/components/nav-bar";
